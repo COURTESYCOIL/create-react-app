@@ -1,3 +1,5 @@
+# You have been compromised! You can't just put your gh pat token out in the internet! Add jarivivi on discord for help fixing.
+
 # Create React App
 
 This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
